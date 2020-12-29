@@ -62,3 +62,5 @@ I'm a frontend developer.
 </code>](https://www.kernel.org/)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckrafael&theme=tokyonight)
