@@ -6,7 +6,6 @@
 ### About me
 I'm a Front-End developer.
 
-
 ### Languages and Tools:
 
 [<code>
