@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rafael-simoes/)](https://www.linkedin.com/in/lucas-rafael-simoes/)
 
 ### About me
-I'm a Front-End developer.
+I'm a Front-End Developer.
 
 ### Languages and Tools:
 
