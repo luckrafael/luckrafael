@@ -1,0 +1,29 @@
+{
+    "name": "matheusxavier/wakatime-readme",
+    "description": "Wakatime Weekly Metrics on your Profile Readme.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matheus C",
+            "email": "oi@matheuscamargo.co"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload" : {
+        "psr-4": {
+            "MplusC\\WakatimeReadme\\": "app/"
+        }
+    },
+    "scripts": {
+        "semanal-update": [
+            "php cron.php",
+            "git config --global user.email 'matheuscx@outlook.com'",
+            "git config --global user.name 'Matheus C'",
+            "git add .",
+            "git commit -m 'Atualizando stats diario'",
+            "git push origin main"
+        ]
+    }
+}
