@@ -62,5 +62,3 @@ I'm a Front-End Developer. And I'm currently studying React.js
 </code>](https://www.kernel.org/)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckrafael&theme=tokyonight)
