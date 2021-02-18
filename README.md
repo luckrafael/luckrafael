@@ -66,37 +66,37 @@ I'm a Front-End Developer. And I'm currently studying React.js
 ```text
 💡 Editor
 
-VS Code                  15 hrs 59 mins      █████████████████████░░░░      84.5%
-Browser                  2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░      15.5%
+VS Code                  15 hrs 8 mins       █████████████████████░░░░     83.01%
+Browser                  3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░     16.99%
 ```
 ```text
 💬 Linguagem
 
-JavaScript               10 hrs 10 mins      █████████████░░░░░░░░░░░░     53.75%
-Other                    3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░     16.94%
-SCSS                     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░      14.6%
-HTML                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░       8.3%
-Blade Template           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      2.32%
-PHP                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░         2%
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      1.39%
+JavaScript               6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░     35.54%
+Other                    3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░      18.7%
+CSS                      2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░     14.98%
+SCSS                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░     13.11%
+HTML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░     11.26%
+Blade Template           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      2.41%
+PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      2.07%
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      1.44%
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░       0.4%
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.21%
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.06%
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.02%
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.01%
-Objective-J              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.01%
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░         0%
 Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░         0%
 ```
 ```text
 💻 Sistema Operacional
 
-Linux                    18 hrs 55 mins      █████████████████████████       100%
+Linux                    14 hrs 25 mins      ████████████████████░░░░░     79.17%
+Mac                      3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░     20.83%
 ```
 ```text
 📦 Categoria
 
-Coding                   15 hrs 59 mins      █████████████████████░░░░      84.5%
-Debugging                1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      8.83%
-Browsing                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      6.67%
+Coding                   15 hrs 8 mins       █████████████████████░░░░     83.01%
+Debugging                1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░       8.9%
+Browsing                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      8.09%
 ```
