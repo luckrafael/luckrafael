@@ -63,4 +63,4 @@ I'm a Front-End Developer. And I'm currently studying React.js
 
 ---
 
-:speech_balloon: ### Análise de Desenvolvimento Semanal via waka-time
+:speech_balloon: Análise de Desenvolvimento Semanal:
