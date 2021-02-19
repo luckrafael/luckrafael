@@ -62,3 +62,5 @@ I'm a Front-End Developer. And I'm currently studying React.js
 </code>](https://www.kernel.org/)
 
 ---
+
+:speech_balloon: Análise de Desenvolvimento Semanal
