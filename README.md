@@ -68,30 +68,28 @@ I'm a Front-End Developer. And I'm currently studying React.js
 ```text
 💡 Editor
 
-VS Code                  3 hrs 39 mins       █████████████████░░░░░░░░        68%
-Browser                  1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░        32%
+VS Code                  2 hrs 53 mins       ████████████████░░░░░░░░░     64.93%
+Browser                  1 hr 33 mins        █████████░░░░░░░░░░░░░░░░     35.07%
 ```
 ```text
 💬 Linguagem
 
-JavaScript               2 hrs 56 mins       ██████████████░░░░░░░░░░░     54.87%
-Other                    1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░     33.34%
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      6.98%
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      4.63%
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.11%
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.04%
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.01%
+JavaScript               2 hrs 11 mins       ████████████░░░░░░░░░░░░░     49.26%
+Other                    1 hr 38 mins        █████████░░░░░░░░░░░░░░░░     36.68%
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      8.42%
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      5.58%
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.05%
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.02%
 ```
 ```text
 💻 Sistema Operacional
 
-Linux                    5 hrs 21 mins       █████████████████████████     99.89%
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.11%
+Linux                    4 hrs 27 mins       █████████████████████████       100%
 ```
 ```text
 📦 Categoria
 
-Coding                   3 hrs 39 mins       █████████████████░░░░░░░░        68%
-Debugging                1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░     19.86%
-Browsing                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░     12.14%
+Coding                   2 hrs 53 mins       ████████████████░░░░░░░░░     64.93%
+Debugging                1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░     23.49%
+Browsing                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░     11.58%
 ```
