@@ -68,28 +68,27 @@ I'm a Front-End Developer. And I'm currently studying React.js
 ```text
 💡 Editor
 
-VS Code                  2 hrs 53 mins       ████████████████░░░░░░░░░     64.93%
-Browser                  1 hr 33 mins        █████████░░░░░░░░░░░░░░░░     35.07%
+VS Code                  1 hr 53 mins        ███████████████░░░░░░░░░░     59.07%
+Browser                  1 hr 18 mins        ██████████░░░░░░░░░░░░░░░     40.93%
 ```
 ```text
 💬 Linguagem
 
-JavaScript               2 hrs 11 mins       ████████████░░░░░░░░░░░░░     49.26%
-Other                    1 hr 38 mins        █████████░░░░░░░░░░░░░░░░     36.68%
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      8.42%
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      5.58%
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.05%
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.02%
+Other                    2 hrs 27 mins       ███████████████████░░░░░░     76.88%
+JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░     13.78%
+SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      8.58%
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░      0.72%
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.04%
 ```
 ```text
 💻 Sistema Operacional
 
-Linux                    4 hrs 27 mins       █████████████████████████       100%
+Linux                    3 hrs 11 mins       █████████████████████████       100%
 ```
 ```text
 📦 Categoria
 
-Coding                   2 hrs 53 mins       ████████████████░░░░░░░░░     64.93%
-Debugging                1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░     23.49%
-Browsing                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░     11.58%
+Coding                   1 hr 53 mins        ███████████████░░░░░░░░░░     59.07%
+Browsing                 41 mins             █████░░░░░░░░░░░░░░░░░░░░     21.78%
+Debugging                36 mins             █████░░░░░░░░░░░░░░░░░░░░     19.15%
 ```
