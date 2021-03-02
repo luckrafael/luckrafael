@@ -68,27 +68,26 @@ I'm a Front-End Developer. And I'm currently studying React.js
 ```text
 💡 Editor
 
-VS Code                  1 hr 53 mins        ███████████████░░░░░░░░░░     59.07%
-Browser                  1 hr 18 mins        ██████████░░░░░░░░░░░░░░░     40.93%
+VS Code                  2 hrs 3 mins        ██████████████████████░░░     87.95%
+Browser                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░     12.05%
 ```
 ```text
 💬 Linguagem
 
-Other                    2 hrs 27 mins       ███████████████████░░░░░░     76.88%
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░     13.78%
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      8.58%
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░      0.72%
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.04%
+Other                    1 hr 26 mins        ███████████████░░░░░░░░░░     61.23%
+JavaScript               36 mins             ███████░░░░░░░░░░░░░░░░░░     26.08%
+SQL                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░      11.7%
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░      0.99%
 ```
 ```text
 💻 Sistema Operacional
 
-Linux                    3 hrs 11 mins       █████████████████████████       100%
+Linux                    2 hrs 20 mins       █████████████████████████       100%
 ```
 ```text
 📦 Categoria
 
-Coding                   1 hr 53 mins        ███████████████░░░░░░░░░░     59.07%
-Browsing                 41 mins             █████░░░░░░░░░░░░░░░░░░░░     21.78%
-Debugging                36 mins             █████░░░░░░░░░░░░░░░░░░░░     19.15%
+Coding                   2 hrs 3 mins        ██████████████████████░░░     87.95%
+Browsing                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░     10.01%
+Debugging                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░      2.04%
 ```
