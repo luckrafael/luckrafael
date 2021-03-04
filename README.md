@@ -68,28 +68,28 @@ I'm a Front-End Developer. And I'm currently studying React.js
 ```text
 💡 Editor
 
-VS Code                  3 hrs 47 mins       ███████████████████████░░     93.06%
-Browser                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      6.94%
+VS Code                  5 hrs 2 mins        ████████████████████████░     94.69%
+Browser                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      5.31%
 ```
 ```text
 💬 Linguagem
 
-HTML                     1 hr 43 mins        ███████████░░░░░░░░░░░░░░     42.38%
-Other                    1 hr 26 mins        █████████░░░░░░░░░░░░░░░░     35.28%
-JavaScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░     15.03%
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░      6.74%
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░      0.57%
+HTML                     2 hrs 58 mins       ██████████████░░░░░░░░░░░     55.97%
+Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░     26.96%
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░     11.48%
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      5.15%
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░      0.43%
 ```
 ```text
 💻 Sistema Operacional
 
-Linux                    2 hrs 20 mins       ██████████████░░░░░░░░░░░     57.62%
-Mac                      1 hr 43 mins        ███████████░░░░░░░░░░░░░░     42.38%
+Mac                      2 hrs 58 mins       ██████████████░░░░░░░░░░░     55.97%
+Linux                    2 hrs 20 mins       ███████████░░░░░░░░░░░░░░     44.03%
 ```
 ```text
 📦 Categoria
 
-Coding                   3 hrs 47 mins       ███████████████████████░░     93.06%
-Browsing                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      5.77%
-Debugging                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      1.17%
+Coding                   5 hrs 2 mins        ████████████████████████░     94.69%
+Browsing                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      4.41%
+Debugging                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░       0.9%
 ```
