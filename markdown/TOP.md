@@ -1,13 +1,13 @@
-# Hi, I'm Lucas! :D
+# Olá, Eu sou o Lucas! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luckrafael)](https://github.com/luckrafael)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rafael-simoes/)](https://www.linkedin.com/in/lucas-rafael-simoes/)
 
 ### About me
 
-I'm a Front-End Developer. And I'm currently studying React.js
+Eu sou um desenvolvedor Front-end e atualmente estou estudando React.js
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -63,4 +63,4 @@ I'm a Front-End Developer. And I'm currently studying React.js
 
 ---
 
-:speech_balloon: Análise de Desenvolvimento Semanal:
+:speech_balloon:Análise de Desenvolvimento Semanal:
